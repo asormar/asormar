@@ -1,6 +1,8 @@
+*¡¡Hola buenas!!
+
 **`Student of Grado en Tecnología Digital y Multimedia at Polytechnic University of Valencia`**
 
-I am a student who looks for interesting projects that genuinely motivate me. I enjoy working with different technologies, exploring new ideas, and building solutions that challenge me and help me grow both technically and creatively.
+My name is Alejandro and I am a student who looks for interesting projects that genuinely motivate me. I enjoy working with different technologies, exploring new ideas, and building solutions that challenge me and help me grow both technically and creatively.
 
 ---
 
