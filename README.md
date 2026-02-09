@@ -1,5 +1,3 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/16cf016e-c4f8-42cc-8602-7aca6d823c28" />* Alejandro Sorolla Martínez
-
 **'Student of Grado en Tecnología Digital y Multimedia at Polytechnic University of Valencia'**
 
 I am a student who looks for interesting projects that genuinely motivate me. I enjoy working with different technologies, exploring new ideas, and building solutions that challenge me and help me grow both technically and creatively.
