@@ -1,16 +1,23 @@
-## Hi there 👋
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/16cf016e-c4f8-42cc-8602-7aca6d823c28" />* Alejandro Sorolla Martínez
 
-<!--
-**asormar/asormar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Student of Grado en Tecnología Digital y Multimedia at Polytechnic University of Valencia'**
 
-Here are some ideas to get you started:
+I am a student who looks for interesting projects that genuinely motivate me. I enjoy working with different technologies, exploring new ideas, and building solutions that challenge me and help me grow both technically and creatively.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=py,js,java,css,html,postgres,fastapi,unity,linux,nodejs,react,supabase,git)](https://skillicons.dev)
+
+### Contact Me
+- **Email:** [alesoma2004@gmail.com](mailto:alesoma2004@gmail.com)  
+- **LinkedIn:** [Alejandro Sorolla Martínez](https://www.linkedin.com/in/alejandro-sorolla-74a262275/)
+
+<p align="center">
+  <a href="mailto:alesoma2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alejandro-sorolla-74a262275/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
