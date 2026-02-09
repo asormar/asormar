@@ -1,4 +1,4 @@
-*¡¡Hola buenas!!
+# ¡¡Hola buenas!!
 
 **`Student of Grado en Tecnología Digital y Multimedia at Polytechnic University of Valencia`**
 
@@ -11,7 +11,7 @@ My name is Alejandro and I am a student who looks for interesting projects that 
 
 ### Contact Me
 
-<p align="center">
+<p>
   <a href="mailto:alesoma2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
