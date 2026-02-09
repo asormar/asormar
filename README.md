@@ -1,4 +1,4 @@
-**'Student of Grado en Tecnología Digital y Multimedia at Polytechnic University of Valencia'**
+**`Student of Grado en Tecnología Digital y Multimedia at Polytechnic University of Valencia`**
 
 I am a student who looks for interesting projects that genuinely motivate me. I enjoy working with different technologies, exploring new ideas, and building solutions that challenge me and help me grow both technically and creatively.
 
@@ -8,8 +8,6 @@ I am a student who looks for interesting projects that genuinely motivate me. I 
 [![My Skills](https://skillicons.dev/icons?i=py,js,java,css,html,postgres,fastapi,unity,linux,nodejs,react,supabase,git)](https://skillicons.dev)
 
 ### Contact Me
-- **Email:** [alesoma2004@gmail.com](mailto:alesoma2004@gmail.com)  
-- **LinkedIn:** [Alejandro Sorolla Martínez](https://www.linkedin.com/in/alejandro-sorolla-74a262275/)
 
 <p align="center">
   <a href="mailto:alesoma2004@gmail.com">
