@@ -1,7 +1,7 @@
 # ¡¡Hola buenas!!
 
-**'MSc Student in Tecnologías Audiovisuales at Polytechnic University of Valencia'**
-<sub>BSc Graduate in Digital Technologies and Multimedia</sub>
+**`MSc Student in Tecnologías Audiovisuales at Polytechnic University of Valencia`**
+<sub>`BSc Graduate in Digital Technologies and Multimedia`</sub>
 
 My name is Alejandro and I am a student who looks for interesting projects that genuinely motivate me. I enjoy working with different technologies, exploring new ideas, and building solutions that challenge me and help me grow both technically and creatively.
 
