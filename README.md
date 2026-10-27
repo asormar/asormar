@@ -21,10 +21,6 @@ Right now I'm interning in Product & Technology at Rankia.
 ### Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=py,ts,js,kotlin,cpp,html,css,react,nextjs,svelte,tailwind,nodejs,fastapi,postgres,prisma,supabase,docker,githubactions,gcp,unity,godot,linux,git&perline=12)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asormar/asormar/output/snake.svg" alt="Snake eating my contribution graph" width="100%" />
-</p>
-
 ### Contact Me
 
 <p>
