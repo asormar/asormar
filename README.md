@@ -3,7 +3,14 @@
 **`MSc Student in Tecnologías Audiovisuales at Polytechnic University of Valencia`**<br/>
 <sub>`BSc Graduate in Digital Technologies and Multimedia`</sub>
 
-My name is Alejandro and I am a student who looks for interesting projects that genuinely motivate me. I enjoy working with different technologies, exploring new ideas, and building solutions that challenge me and help me grow both technically and creatively.
+I'm Alejandro, from Valencia. I'm most interested in machine learning, data analysis, process optimization and digital transformation, and in integrating AI into real workflows so that they work better than before. I'm happiest when an idea stops being a sketch and starts working.
+
+* Predictive modelling and simulation: Elo, regression and Monte Carlo applied to sports, the subject of my bachelor's thesis
+* Computer vision: sign language recognition from a webcam using image classification
+* Real-time web apps: collaborative canvases with Yjs, offline-capable PWAs and interactive maps
+* Automation: scrapers, bots and scheduled pipelines on GitHub Actions
+
+Right now I'm doing an internship in Product & Technology at Rankia.
 
 ---
 
