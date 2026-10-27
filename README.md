@@ -8,7 +8,7 @@ My name is Alejandro and I am a student who looks for interesting projects that 
 ---
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=py,js,java,css,html,postgres,fastapi,unity,linux,nodejs,react,supabase,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,js,kotlin,cpp,html,css,react,nextjs,svelte,tailwind,nodejs,fastapi,postgres,prisma,supabase,docker,githubactions,gcp,unity,godot,linux,git&perline=12)](https://skillicons.dev)
 
 ### Contact Me
 
